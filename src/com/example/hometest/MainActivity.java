@@ -32,7 +32,7 @@ public class MainActivity extends Activity {
 		listArrayList.add("Chocolate");
 		listArrayList.add("Strawberry");
 		listArrayList.add("Vanilla");
-		listArrayList.add("Rum and Rasin");
+		listArrayList.add("Rum and Raisin");
 
 		/*
 		 * Next, we find the ListView from the XML file using 'findViewById()'
